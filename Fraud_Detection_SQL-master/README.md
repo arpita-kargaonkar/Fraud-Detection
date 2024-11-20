@@ -1,9 +1,5 @@
 # Fraud_Detection_SQL
 
-![Credit card fraudster](Images/credit_card_fraudster.jpg)
-
-*[Credit Card Fraudster by Richard Patterson](https://www.flickr.com/photos/136770128@N07/42252105582/) | [Creative Commons Licensed](https://creativecommons.org/licenses/by/2.0/)*
-
 ## Background
 
 Fraud is everywhere these days—whether you are a small taco shop or a large international business. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
